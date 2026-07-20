@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Duy Huynh",
+  "identity": "Daio.Template.BlankSolution",
+  "name": "Daio Blank Solution",
+  "shortName": "daio-blank",
+  "sourceName": "DaioTemplate",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "exclude": [
+        "**/[Bb]in/**",
+        "**/[Oo]bj/**",
+        ".vs/**"
+      ]
+    }
+  ]
+}
