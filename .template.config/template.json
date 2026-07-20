@@ -11,7 +11,12 @@
       "exclude": [
         "**/[Bb]in/**",
         "**/[Oo]bj/**",
-        ".vs/**"
+        ".git/**",
+        ".vs/**",
+        ".idea/**",
+        ".vscode/launch.json",
+        ".DS_Store",
+        "Thumbs.db"
       ]
     }
   ]
